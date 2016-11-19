@@ -1,0 +1,8 @@
+[package]
+name = "rust-vilnius"
+version = "0.1.0"
+authors = ["Martynas Mickevičius <self@2m.lt>"]
+
+[dependencies]
+rand = "0.3"
+glium = "0.15"
